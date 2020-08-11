@@ -7,8 +7,8 @@ Played around Bike Sharing Demand Data from [Kaggle's Challenge](https://www.kag
 ## [Logistic Regression](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/Logistic_Regression.ipynb)
 Used logistic regression to predict whether a person makes over 50K a year using [UCI's Adult Data](https://archive.ics.uci.edu/ml/datasets/adult).
 
-## K-Nearest Neighbors
-Practiced K-Nearest Neighbors model on the iris data.
+## [K-Nearest Neighbors](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/KNN.ipynb)
+Practiced choosing K value for K-Nearest Neighbors model on the iris data.
 
 ## Decision Trees & Random Forests
 Classify schools as Private or Public based off their features using the College data frame from ISLR.
