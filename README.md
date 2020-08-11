@@ -10,14 +10,14 @@ Used logistic regression to predict whether a person makes over 50K a year using
 ## [K-Nearest Neighbors](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/KNN.ipynb)
 Practiced choosing K value for K-Nearest Neighbors model on the iris data.
 
-## Decision Trees & Random Forests
+## [Decision Trees & Random Forests](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/trees.ipynb)
 Classify schools as Private or Public based off their features using the College data frame from ISLR.
 
-## Support Vector Machines
+## [Support Vector Machines](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/SVM.ipynb)
 Use public lending data from Lending Club from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full.
 
-## K-Means Clustering
+## [K-Means Clustering](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/KMeans_Clustering.ipynb)
 Added a label to the a combined data set of [UCI's Red and White Wine Data](http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/) to see how well we can cluster the wine into groups.
 
-## Neural Nets
+## [Neural Nets](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/Neural_Nets.ipynb)
 Predict whether or not a Bank Note was authentic with [UCI's Banknote Authentication Data Set](https://archive.ics.uci.edu/ml/datasets/banknote+authentication).
