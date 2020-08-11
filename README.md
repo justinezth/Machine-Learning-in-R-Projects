@@ -1,7 +1,7 @@
 # Machine Learning in R Projects
 Machine Learning Projects
 
-## Linear Regression
+## [Linear Regression](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/Linear_Regression_Bikes.ipynb)
 Played around Bike Sharing Demand Data from [Kaggle's Challenge](https://www.kaggle.com/c/bike-sharing-demand/data). Tried to predict total number of rentals, but through data analysis, learned that linear regression isn't the best model for this data because of the seasonal and time series nature of the data.
 
 ## Logistic Regression
