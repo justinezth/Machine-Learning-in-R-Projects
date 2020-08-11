@@ -4,7 +4,7 @@ Machine Learning Projects
 ## [Linear Regression](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/Linear_Regression_Bikes.ipynb)
 Played around Bike Sharing Demand Data from [Kaggle's Challenge](https://www.kaggle.com/c/bike-sharing-demand/data). Tried to predict total number of rentals, but through data analysis, learned that linear regression isn't the best model for this data because of the seasonal and time series nature of the data.
 
-## Logistic Regression
+## [Logistic Regression](https://github.com/justinezth/Machine-Learning-in-R-Projects/blob/master/Logistic_Regression.ipynb)
 Used logistic regression to predict whether a person makes over 50K a year using [UCI's Adult Data](https://archive.ics.uci.edu/ml/datasets/adult).
 
 ## K-Nearest Neighbors
